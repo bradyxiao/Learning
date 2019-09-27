@@ -1,1 +1,1 @@
-include ':app', ':network', ':rxjava', ':aroute', ':glide'
+include ':app', ':network', ':rxjava', ':aroute', ':glide', ':database'
